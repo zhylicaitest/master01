@@ -4,7 +4,6 @@
  *
  * @var \Phalcon\Config $config
  */
-
 use Phalcon\Di\FactoryDefault;
 use Phalcon\Mvc\View;
 use Phalcon\Mvc\Url as UrlResolver;
